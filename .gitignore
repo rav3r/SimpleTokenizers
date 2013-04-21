@@ -1,0 +1,10 @@
+Debug
+iniLoader/Debug
+iniLoader/*.user
+iniLoader/out.txt
+pl0ToHtml/Debug
+pl0ToHtml/*.user
+pl0ToHtml/index.html
+
+*.ncb
+*.suo
